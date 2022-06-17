@@ -4,6 +4,8 @@
 
 IMEの状態を読み取り、シリアルポートのDTS/RTS端子に反映する常駐アプリです。DTS/RTS端子にLEDを接続してIMEの状態を表示するのを想定しています。
 
+https://user-images.githubusercontent.com/40152459/174389353-7c8a4bc3-478f-41e9-8b25-c7db305f3b55.mp4
+
 ## アプリのダウンロード
 
 [Releases](https://github.com/shapoco/ImeTo232C/releases) から最新の Asset をダウンロードしてください。
